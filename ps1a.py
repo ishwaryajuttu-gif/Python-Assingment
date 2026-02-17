@@ -7,6 +7,7 @@ current_savings = 0.0      # Initial savings is zero
 ar = 0.04                   # Annual return on investment is 4% 
 months = 0
 
+# This is my comments
 #montly calculation
 down_payment = total_cost * 0.25 # 25% down payment from total cost
 monthly_salary = annual_salary / 12
